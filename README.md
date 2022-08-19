@@ -19,9 +19,6 @@
       <a href="mailto:tarekthedream@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="tarekthedream@gmail.com" height="20" width="20" /></a>
 <a href="https://facebook.com/t2turbo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="t2turbo" height="20" width="20" /></a>
 
-
-<a href="https://instagram.com/oldtarek" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oldtarek" height="20" width="20" /></a>
-
 </p>
 <br>
 <br>
